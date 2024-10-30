@@ -1,0 +1,19 @@
+.new_quote {
+    float: left;
+    margin-right: 30px;
+	margin-left: 20px;
+}
+
+.delete_quote {
+	float: left;
+	margin-right: 30px;
+}
+
+.research_quote {
+    height: 200px;
+}
+
+.t_quotes{
+	width: 100%;
+  	table-layout: fixed;
+}
